@@ -1,3 +1,3 @@
-Este es un archivo de ejemplo para aprender a usar Git y GitHub.
+Este es un archivo de ejemplo (esta es una modificación) para aprender a usar Git y GitHub.
 
-Tarán!
+Tarán, Tararán!
